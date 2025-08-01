@@ -1,4 +1,8 @@
-<?php
-echo "Saya  Udin";
-    echo "HALO SAYA JEFRY";
+<?php 
+
+
+$hasil = (true and false);
+var_dump($hasil); echo "<br>";
+
+
 ?>
